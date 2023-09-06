@@ -1,6 +1,5 @@
 papers:
-
-  - title: "Ktrl+F: Knowledge-Augmented In-Document Search "
+  - title: "Ktrl+F: Knowledge-Augmented In-Document Search"
     image: "/assets/publications/2023_preprint/ktrlf.png"
     authors: "<b><u>Hanseok Oh*</u></b>, Haebin Shin*, Miyoung Ko, Hyunji Lee, Minjoon Seo"
     venue: "preprint under review"
