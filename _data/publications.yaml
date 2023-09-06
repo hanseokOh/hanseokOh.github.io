@@ -1,5 +1,12 @@
 papers:
 
+- title: "Ktrl+F: Knowledge-Augmented In-Document Search "
+    image: "/assets/publications/2023_preprint/ktrlf.png"
+    authors: "<b><u>Hanseok Oh*</u></b>, Haebin Shin*, Miyoung Ko, Hyunji Lee, Minjoon Seo"
+    venue: "preprint under review"
+    paper_pdf: "https://openreview.net/forum?id=EKrckovmTK"
+    selected: y
+
   - title: "Structured Abstract Summarization of Scientific Articles: Summarization Using Full-text Section Information"
     image: "/assets/publications/2022_jasist/structured.png"
     authors: "<b><u>Hanseok Oh</u></b>, Seojin Nam, Yongjun Zhu"
@@ -7,7 +14,7 @@ papers:
     paper_pdf: "https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24727"
     selected: y
 
-  - title: "Contextualized Generative Retrieval"
+  - title: "Nonparametric Decoding for Generative Retrieval"
     image: "/assets/publications/2022_arxiv/cgr.png"
     authors: "Hyunji Lee, Jaeyoung Kim, Hoyeon Chang, <b><u>Hanseok Oh</u></b>, Sohee Yang, Vlad Karpukhin, Yi Lu, Minjoon Seo"
     venue: "ACL 2023 Findings"
