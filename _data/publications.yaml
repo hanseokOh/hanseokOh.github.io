@@ -2,8 +2,8 @@ papers:
   - title: "Ktrl+F: Knowledge-Augmented In-Document Search"
     image: "/assets/publications/2023_preprint/ktrlf.png"
     authors: "<b><u>Hanseok Oh*</u></b>, Haebin Shin*, Miyoung Ko, Hyunji Lee, Minjoon Seo"
-    venue: "preprint under review"
-    paper_pdf: "https://openreview.net/forum?id=EKrckovmTK"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2311.08329"
     selected: y
 
   - title: "Structured Abstract Summarization of Scientific Articles: Summarization Using Full-text Section Information"
