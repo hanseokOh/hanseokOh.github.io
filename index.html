@@ -81,8 +81,8 @@ layout: default
               <div class="figure">
                 <img src="{{ paper.image }}" width="100%">
               </div> -->
-            </div>
-            <div class="eight columns">
+            <!-- </div> -->
+            <div class="twelve columns">
               <p class="title"><b>{{ paper.title }}</b></p>
               <p>{{ paper.authors }}</p>
               <p><i>{{ paper.venue }}</i></p>
@@ -105,6 +105,9 @@ layout: default
 
                 {% if paper.code %}
                   <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+                
+                {% if paper.twitter %}
+                  <a class="button" href="{{ paper.twitter }}" target="_blank">Twitter</a>
                 {% endif %}
               </div>
             </div>
