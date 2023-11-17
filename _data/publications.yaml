@@ -8,7 +8,7 @@ papers:
     selected: y
 
   - title : "Zero-Shot Dense Video Captioning by Jointly Optimizing Text and Moment"
-    authors : "Yongrae Jo, Seongyun Lee, Aiden SJ Lee, Hyunji Lee, <b><u>Hanseok Oh<b><u>, Minjoon Seo"
+    authors : "Yongrae Jo, Seongyun Lee, Aiden SJ Lee, Hyunji Lee, <b><u>Hanseok Oh</u></b>, Minjoon Seo"
     venue: "Preprint"
     paper_pdf : "https://arxiv.org/abs/2307.02682"
     selected: y
