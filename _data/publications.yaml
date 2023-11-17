@@ -1,34 +1,39 @@
 papers:
   - title: "Ktrl+F: Knowledge-Augmented In-Document Search"
-    image: "/assets/publications/2023_preprint/ktrlf.png"
     authors: "<b><u>Hanseok Oh*</u></b>, Haebin Shin*, Miyoung Ko, Hyunji Lee, Minjoon Seo"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2311.08329"
+    code: "https://github.com/hanseokOh/KtrlF"
+    twitter: "https://x.com/hanseok_oh/status/1725102460841418970?s=20"
+    selected: y
+
+  - title : "Zero-Shot Dense Video Captioning by Jointly Optimizing Text and Moment"
+    authors : "Yongrae Jo, Seongyun Lee, Aiden SJ Lee, Hyunji Lee, <b><u>Hanseok Oh<b><u>, Minjoon Seo"
+    venue: "Preprint"
+    paper_pdf : "https://arxiv.org/abs/2307.02682"
     selected: y
 
   - title: "Structured Abstract Summarization of Scientific Articles: Summarization Using Full-text Section Information"
-    image: "/assets/publications/2022_jasist/structured.png"
     authors: "<b><u>Hanseok Oh</u></b>, Seojin Nam, Yongjun Zhu"
     venue: "JASIST (2022)"
     paper_pdf: "https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24727"
     selected: y
 
   - title: "Nonparametric Decoding for Generative Retrieval"
-    image: "/assets/publications/2022_arxiv/cgr.png"
     authors: "Hyunji Lee, Jaeyoung Kim, Hoyeon Chang, <b><u>Hanseok Oh</u></b>, Sohee Yang, Vlad Karpukhin, Yi Lu, Minjoon Seo"
     venue: "ACL 2023 Findings"
     paper_pdf: "https://arxiv.org/abs/2210.02068"
     selected: y
 
   - title: "Generative Multi-hop Retrieval"
-    image: "/assets/publications/2022_emnlp/gmr.png"
     authors: "Hyunji Lee, Sohee Yang, <b><u>Hanseok Oh</u></b>, Minjoon Seo"
     venue: "EMNLP 2022"
     paper_pdf: "https://arxiv.org/abs/2204.13596"
+    code: "https://github.com/amy-hyunji/Generative-Multihop-Retrieval"
+    twitter: https://x.com/hyunji_amy_lee/status/1582745785812148224?s=20
     selected: y
 
   - title: "ViSeRet: A simple yet effective approach to moment retrieval via fine-grained video segmentation"
-    image: "/assets/publications/2021_iccv/viseret.png"
     authors: "Aiden Seungjoon Lee, <b><u>Hanseok Oh</u></b>, Minjoon Seo"
     venue: "ICCV 2021 Workshop on Closing the Loop between Vision and Language (CLVL)"
     paper_pdf: "https://arxiv.org/abs/2110.05146"
