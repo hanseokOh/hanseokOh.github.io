@@ -1,4 +1,12 @@
 papers:
+  - title: "INSTRUCTIR: A Benchmark for Instruction Following of Information Retrieval Models"
+    authors: "<b><u>Hanseok Oh*</u></b>, Hyunji Lee, Seonghyeon Ye, Haebin Shin, Hansol Jang, Changwook Jun, Minjoon Seo"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2402.14334"
+    code: "https://github.com/kaistAI/InstructIR"
+    twitter: "https://twitter.com/hanseok_oh/status/1763063167905829179"
+    selected: y
+
   - title: "Ktrl+F: Knowledge-Augmented In-Document Search"
     authors: "<b><u>Hanseok Oh*</u></b>, Haebin Shin*, Miyoung Ko, Hyunji Lee, Minjoon Seo"
     venue: "Preprint"
