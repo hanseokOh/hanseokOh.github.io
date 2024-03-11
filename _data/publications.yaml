@@ -1,6 +1,6 @@
 papers:
   - title: "INSTRUCTIR: A Benchmark for Instruction Following of Information Retrieval Models"
-    authors: "<b><u>Hanseok Oh*</u></b>, Hyunji Lee, Seonghyeon Ye, Haebin Shin, Hansol Jang, Changwook Jun, Minjoon Seo"
+    authors: "<b><u>Hanseok Oh</u></b>, Hyunji Lee, Seonghyeon Ye, Haebin Shin, Hansol Jang, Changwook Jun, Minjoon Seo"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2402.14334"
     code: "https://github.com/kaistAI/InstructIR"
