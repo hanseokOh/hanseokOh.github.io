@@ -9,7 +9,7 @@ papers:
 
   - title: "Ktrl+F: Knowledge-Augmented In-Document Search"
     authors: "<b><u>Hanseok Oh*</u></b>, Haebin Shin*, Miyoung Ko, Hyunji Lee, Minjoon Seo"
-    venue: "Preprint"
+    venue: "NAACL 2024"
     paper_pdf: "https://arxiv.org/abs/2311.08329"
     code: "https://github.com/hanseokOh/KtrlF"
     twitter: "https://x.com/hanseok_oh/status/1725102460841418970?s=20"
