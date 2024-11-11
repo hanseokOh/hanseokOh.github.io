@@ -1,6 +1,6 @@
 papers:
   - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
-    authors: "Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, ..., <b><u>Hanseok Oh</u></b>, … , Sean Wellect, Graham Neubig, Moontae Lee, Kyungjae Lee, and Minjoon Seo
+    authors: "Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, ..., <b><u>Hanseok Oh</u></b>, … , Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, and Minjoon Seo
 arXiv preprint"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2406.05761"
