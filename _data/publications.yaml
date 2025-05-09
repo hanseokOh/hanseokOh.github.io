@@ -1,14 +1,13 @@
 papers:
   - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
-    authors: "Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, ..., <b><u>Hanseok Oh</u></b>, … , Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, and Minjoon Seo
-arXiv preprint"
-    venue: "Preprint"
+    authors: "Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Sue Hyun Park, Hyeonbin Hwang, Jinkyung Jo, Hyowon Cho, Haebin Shin, Seongyun Lee, <b><u>Hanseok Oh</u></b>, Noah Lee, Namgyu Ho, Se June Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
+    venue: "NAACL 2025 (Best Paper Award)"
     paper_pdf: "https://arxiv.org/abs/2406.05761"
     selected: y
 
   - title: "INSTRUCTIR: A Benchmark for Instruction Following of Information Retrieval Models"
     authors: "<b><u>Hanseok Oh</u></b>, Hyunji Lee, Seonghyeon Ye, Haebin Shin, Hansol Jang, Changwook Jun, Minjoon Seo"
-    venue: "ACL 2024 Workshop on Knowledge-Augmented NLP (KnowledgeNLP) | (WIP)"
+    venue: "ACL 2024 Workshop on Knowledge-Augmented NLP (KnowledgeNLP)"
     paper_pdf: "https://arxiv.org/abs/2402.14334"
     code: "https://github.com/kaistAI/InstructIR"
     twitter: "https://twitter.com/hanseok_oh/status/1763063167905829179"
