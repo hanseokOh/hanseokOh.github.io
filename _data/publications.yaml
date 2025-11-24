@@ -1,4 +1,10 @@
 papers:
+  - title: "Context-Informed Grounding Supervision"
+    authors: "Hyunji Lee, Seunghyun Yoon, Yunjae Won, <b><u>Hanseok Oh</u></b>, Geewook Kim, Trung Bui, Franck Dernoncourt, Elias Stengel-Eskin, Mohit Bansal, Minjoon Seo"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2506.15480"
+    selected: y
+
   - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
     authors: "Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Sue Hyun Park, Hyeonbin Hwang, Jinkyung Jo, Hyowon Cho, Haebin Shin, Seongyun Lee, <b><u>Hanseok Oh</u></b>, Noah Lee, Namgyu Ho, Se June Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
     venue: "NAACL 2025 (Best Paper Award)"

@@ -1,8 +1,8 @@
 experiences:
 - place: "Mila"
   time: "Jun. 2025 - present"
-  title: "Visiting Researcher"
-  subtitle: "Agentic approach for conversational information-seeking."
+  title: "Visiting Researcher (Advisor: Siva Reddy)"
+  subtitle: "Working on building benchmark for multimodal information-seeking agents in the wild."
   category: "work"
 
 - place: "SoftlyAI"
