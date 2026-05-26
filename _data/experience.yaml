@@ -1,6 +1,12 @@
 experiences:
+- place: "NYU eBRAIN lab"
+  time: "Jul. 2026 - present"
+  title: "Ph.D Student (Advisor: Muhammad Shafique)"
+  subtitle: "Working on embedded and wearable agents."
+  category: "school"
+
 - place: "Mila"
-  time: "Jun. 2025 - present"
+  time: "Jun. 2025 - Mar. 2026"
   title: "Visiting Researcher (Advisor: Siva Reddy)"
   subtitle: "Working on building benchmark for multimodal information-seeking agents in the wild."
   category: "work"

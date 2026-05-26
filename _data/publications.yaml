@@ -1,7 +1,13 @@
 papers:
-  - title: "Context-Informed Grounding Supervision"
+  - title: "Subject-level Inference for Realistic Text Anonymization Evaluation"
+    authors: "Myeong Seok Oh, Dong-Yun Kim, <b><u>Hanseok Oh</u></b>, Chaean Kang, Joeun Kang, Xiaonan Wang, Hyunjung Park, Young Cheol Jung, Hansaem Kim"
+    venue: "ACL 2026"
+    paper_pdf: "https://arxiv.org/abs/2604.21211"
+    selected: y
+
+  - title: "Instruction Tuning with and without Context: Behavioral Shifts and Downstream Impact"
     authors: "Hyunji Lee, Seunghyun Yoon, Yunjae Won, <b><u>Hanseok Oh</u></b>, Geewook Kim, Trung Bui, Franck Dernoncourt, Elias Stengel-Eskin, Mohit Bansal, Minjoon Seo"
-    venue: "Preprint"
+    venue: "EACL 2026"
     paper_pdf: "https://arxiv.org/abs/2506.15480"
     selected: y
 
