@@ -1,4 +1,10 @@
 papers:
+  - title: "CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA"
+    authors: "<b><u>Hanseok Oh</u></b>, Parishad BehnamGhader, Benno Krojer, Hyunji Lee, Paul Liang, Siva Reddy, Verna Dankers"
+    venue: "ECCV 2026"
+    paper_pdf: "https://arxiv.org/abs/2607.21155"
+    selected: y
+
   - title: "Subject-level Inference for Realistic Text Anonymization Evaluation"
     authors: "Myeong Seok Oh, Dong-Yun Kim, <b><u>Hanseok Oh</u></b>, Chaean Kang, Joeun Kang, Xiaonan Wang, Hyunjung Park, Young Cheol Jung, Hansaem Kim"
     venue: "ACL 2026"
